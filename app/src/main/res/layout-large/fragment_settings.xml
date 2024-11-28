@@ -67,17 +67,6 @@
                 android:padding="16dp"
                 android:textSize="48sp"/>
 
-            <com.google.android.material.switchmaterial.SwitchMaterial
-                android:id="@+id/addFollowSystemIconOnMain"
-                style="@style/Widget.Material3.CompoundButton.MaterialSwitch"
-                android:enabled="true"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:paddingHorizontal="8dp"
-                android:padding="16dp"
-                android:text="FollowSystem icon on Main Screen"
-                android:textSize="48sp"/>
-
         </LinearLayout>
     </com.google.android.material.card.MaterialCardView>
 

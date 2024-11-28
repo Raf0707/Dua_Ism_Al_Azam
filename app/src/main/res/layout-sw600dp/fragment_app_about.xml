@@ -51,7 +51,7 @@
                                 android:layout_width="360dp"
                                 android:layout_height="wrap_content"
                                 android:padding="8dp"
-                                android:src="@drawable/duaforrichness4" />
+                                android:src="@drawable/dua_ism_al_azam" />
 
                             <LinearLayout
                                 android:layout_width="540dp"

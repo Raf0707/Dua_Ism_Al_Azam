@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Dua for richness</string>
+    <string name="app_name">Dua Ism Al-Azam</string>
 
     <string name="version">Версия: 1.0.0.0</string>
     <string name="rafail_url" translatable="false">https://github.com/Raf0707</string>
@@ -7,7 +7,7 @@
     <string name="source_code">Исходный код</string>
     <string name="source_code_url" translatable="false">https://github.com/Raf0707/Al_Istigfar</string>
     <string name="from_tabiin">from Tabiin</string>
-    <string name="tabiin" translatable="false">https://vk.com/club213851453</string>
+    <string name="tabiin" translatable="false">https://vk.com/tabiin_muslim_planner</string>
     <string name="Raf_title">Рафаил Кикматулин</string>
     <string name="raf_android_dev_mail_ru">raf_android-dev@mail.ru</string>
     <string name="version_copied">version copied</string>

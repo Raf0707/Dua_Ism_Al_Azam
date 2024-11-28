@@ -13,5 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Dua for richness"
+rootProject.name = "Dua Ism Al A'zam"
 include ':app'

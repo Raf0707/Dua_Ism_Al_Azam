@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'raf.tabiin.duaforrichness'
+    namespace 'raf.tabiin.duaismalazam'
     compileSdk 34
 
     defaultConfig {
-        applicationId "raf.tabiin.duaforrichness"
+        applicationId "raf.tabiin.duaismalazam"
         minSdk 24
         targetSdk 34
         versionCode 2
